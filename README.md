@@ -13,4 +13,3 @@ Exploratory Analysis: The project employs powerful libraries such as Pandas, Mat
 
 Sales and Customer Experience Improvement: The repository focuses on identifying areas for improving sales and enhancing the overall customer experience. By analyzing the data, users can gain insights into customer preferences, identify underperforming products, and make informed decisions to boost sales and improve customer satisfaction.
 
-Whether you are a data analyst, a sales professional, or someone interested in gaining insights from sales data, this repository provides a comprehensive and user-friendly project that empowers you to explore and derive valuable information from real-time sales data using Python.
